@@ -1,0 +1,13 @@
+.search {
+    width: 350px;
+    border: 1px solid #33333350;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 8px;
+    outline-color: #33333350;
+    color: #33333380;
+}
+
+.search::placeholder {
+    color: #33333350;
+}
